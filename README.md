@@ -30,7 +30,7 @@ docker rmi -f $(docker images -aq)
 Una vez haya descargado el test plan [desde este enlace](https://mega.nz/file/c15XhIgD#CxiaAqWNEmjr9h_cK6YnksO1cBW5KDB5BBMCE-pmFEA) y lo tenga abierto en JMeter, deberá realizar los siguientes pasos previos a la resolución del ejercicio:
 
 1. Vaya a `Test Plan - examen` y modifique el valor de la variable `HOST` por el de la IP que tenga la máquina donde ha desplegado la aplicación con `docker-compose up`.
-2. En `CSV Data Set Config` introduzca la ruta en su máquina al fichero `[./jMeter/alumnos-examen.csv](https://raw.githubusercontent.com/juanluck/examenISEP4/main/jMeter/alumnos-examen.csv?token=GHSAT0AAAAAACIZY73KNTFTE7A7OA45VT6EZLSDJ3Q)` que habrá descargado desde este repositorio.
+2. En `CSV Data Set Config` introduzca la ruta en su máquina al fichero [./jMeter/alumnos-examen.csv](https://raw.githubusercontent.com/juanluck/examenISEP4/main/jMeter/alumnos-examen.csv?token=GHSAT0AAAAAACIZY73KNTFTE7A7OA45VT6EZLSDJ3Q) que habrá descargado desde este repositorio.
 
 ---
 ## Resolución del ejercicio
