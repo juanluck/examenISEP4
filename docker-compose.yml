@@ -16,6 +16,6 @@ services:
     nodejs:
       build: ./nodejs
       ports:
-        - "3000:3000"
+        - "4000:3000"
       links:
         - mongodb
