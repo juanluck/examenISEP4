@@ -1,6 +1,6 @@
 # Ejercicio JMeter del examen de prácticas de ISE
 
-Este repositorio es una versión modificada del repositorio de la práctica 4 [iseP4JMeter](https://github.com/davidPalomar-ugr/iseP4JMeter) (puede consultar el enlace para más información). En su mayor parte el repositorio actual es un clon del anterior pero se han introducido dos cambios. **Usted deberá averiguar de que cambios se tratan y ser capaz de modificar un test plan en JMeter que se le facilitará a continuación para que se ejecute de forma correcta**
+Este repositorio es una versión modificada del repositorio de la práctica 4 [iseP4JMeter](https://github.com/davidPalomar-ugr/iseP4JMeter). En su mayor parte el repositorio actual es un clon del anterior pero se han introducido dos cambios. **Usted deberá averiguar de que cambios se tratan y ser capaz de modificar un test plan en JMeter que se le facilitará a continuación para que se ejecute de forma correcta**
 
 ---
 ## Pasos previos
